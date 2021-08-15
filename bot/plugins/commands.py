@@ -28,7 +28,21 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = 
+⚡ 𝙁𝙊𝙍 𝙉𝙀𝙒 𝙈𝙊𝙑𝙄𝙀𝙎 ⚡
+          @D_W_T_1  
+
+⚡🌩 𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 🌩⚡
+ 
+⚡𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻⚡ https://t.me/joinchat/QFqeH_ZZoHNiYTdl
+
+⚡𝙁𝙊𝙍 𝙊𝙇𝘿 𝘼𝙉𝘿 𝙉𝙀𝙒 𝙈𝙊𝙑𝙄𝙀⚡
+
+🌩𝙔𝙊𝙐 𝘾𝘼𝙉 𝙏𝙔𝙋𝙀 𝘼𝙉𝘿 𝙁𝙄𝙉𝘿 𝙔𝙊𝙐𝙍 𝙈𝙊𝙑𝙄𝙀𝙎 𝙄𝙉 𝙏𝙃𝙄𝙎 𝙂𝙍𝙊𝙐𝙋🌩
+
+⚡𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿⚡: https://t.me/joinchat/eG6kPEMSredhY2Y1
+
+⚡𝙅𝙊𝙄𝙉⚡𝙎𝙃𝘼𝙍𝙀⚡𝙎𝙐𝙋𝙋𝙊𝙍𝙏⚡,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
