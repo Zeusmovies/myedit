@@ -28,7 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = ⚡𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿⚡: https://t.me/joinchat/eG6kPEMSredhY2Y1
+                caption = @D_W_T_1, 
 
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
