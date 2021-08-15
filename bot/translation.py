@@ -4,21 +4,20 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b><u>Hey I am Zeus {}!!</b></u>
+<i>Am from zeus all power
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+You can't add me to your group or channel🥲 Don't waste your time ⌚
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@D_W_T_1
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Onulaa group lle pova movie name correct ayee type chyaa ente result click chya start koduka movie kitum
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -43,7 +42,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@D_W_T_1
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
